@@ -1,6 +1,5 @@
 <script>
   import { projects } from "$lib/stores/projects";
-  console.log($projects);
 </script>
 
 <h1>Projects</h1>
